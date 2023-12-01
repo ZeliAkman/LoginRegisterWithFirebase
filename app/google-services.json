@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "30534765999",
+    "project_id": "loginregisterwithfirebas-bc13a",
+    "storage_bucket": "loginregisterwithfirebas-bc13a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30534765999:android:f7f4092ff8a3981054735a",
+        "android_client_info": {
+          "package_name": "com.example.loginandregisterwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIejFs3YWCcPdLFW2m4U8HU6jusk84gts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:30534765999:android:8b7624febd65ea6254735a",
+        "android_client_info": {
+          "package_name": "com.example.registerandloginwithfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIejFs3YWCcPdLFW2m4U8HU6jusk84gts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
